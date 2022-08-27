@@ -11,7 +11,7 @@ import {
 import { SiJavascript, SiStyledcomponents, SiRedux } from "react-icons/si";
 
 // Projects Images (add your images to the images directory and import below)
-import Logo from "./images/logo.svg";
+import Logo from "./images/logo-portfolio.svg";
 
 // Hero Images (add your images to the /images directory with the same names)
 import HeroLight from "./images/hero-light.jpg";
